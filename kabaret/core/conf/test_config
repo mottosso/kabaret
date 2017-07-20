@@ -1,0 +1,24 @@
+#
+#	Test config. 
+#	Structure:
+#
+#	GROUP_B(
+#	  VALUE_A='test BA'
+#	  VALUE_B='test BB'
+#	)
+#	GROUP_A(
+#	  VALUE_A='test AA'
+#	  VALUE_B='test AB'
+#	)
+#	VALUE_A=12
+#	VALUE_B=12
+#
+
+GROUP_A.VALUE_A = 'OK MODIFIED' 
+
+
+GROUP_B.A_VALUE_B = '12'
+#GROUP_B.VALUE_C = 12
+
+VALUE_A = 123
+VALUE_C = 'FAIL'

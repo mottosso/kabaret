@@ -1,0 +1,21 @@
+Metadata-Version: 1.0
+Name: kabaret
+Version: 0.1.0b3
+Summary: Digital Creation Studio Framework
+Home-page: http://packages.python.org/kabaret
+Author: Damien Coureau
+Author-email: dee@dee909.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Topic :: Office/Business :: Groupware
+Classifier: Topic :: Office/Business :: Scheduling
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Information Technology
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 2.5
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: License :: OSI Approved :: GNU Lesser General Public License v3 or later (LGPLv3+)
